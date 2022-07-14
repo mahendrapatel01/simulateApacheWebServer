@@ -1,0 +1,15 @@
+{
+  "noOfCores": 4,
+  "noOfThreads": 150,
+  "buffSize": 70,
+  "noOfClients": 100,
+  "thinkTime": 6000,
+  "simulationTIme": 300000,
+  "timeQuantum": 36.5,
+  "contextSwitchOverhead": 9,
+  "meanServiceTime": 168,
+  "meanTimeout": 9000,
+  "noOfRuns": 20,
+  "serviceTimeDistribution": "const",
+  "debug": 1
+}
